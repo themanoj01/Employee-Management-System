@@ -8,9 +8,7 @@ public class EmployeeTest {
         System.out.println();
         man1.displayEmployeeInfo();
 
-        System.out.println();
         emp1.raiseSalary(10);
-        System.out.println();
         man1.raiseSalary(10);
         System.out.println();
 
